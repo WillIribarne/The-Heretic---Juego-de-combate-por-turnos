@@ -1,0 +1,4 @@
+#ifndef THE_HERETIC_ITEMS_H
+#define THE_HERETIC_ITEMS_H
+
+#endif //THE_HERETIC_ITEMS_H
